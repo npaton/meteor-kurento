@@ -2,7 +2,8 @@ Package.describe({
   name: 'npaton:kurento',
   version: '0.2.1',
   summary: 'Kurento Media Server node.js library',
-  documentation: 'README.md'
+  documentation: 'README.md',
+  git: "https://github.com/npaton/meteor-kurento",
 });
 
 Package.onUse(function(api) {
